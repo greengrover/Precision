@@ -32,7 +32,7 @@
 
 В качестве тестовых данных использовались:
 
-* [Приложение](https://github.com/greengrover/Money-Transfer/blob/master/src/Main.java)
+* [Приложение](https://github.com/greengrover/Precision/blob/master/src/Main.java)
 
 
 
